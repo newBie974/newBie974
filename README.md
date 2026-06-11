@@ -63,11 +63,29 @@ I design, build and ship products end-to-end — from idea to the App Store. Thr
 
 ---
 
+### 🤖 My Agentic Harness
+
+AI is my engineering leverage — not a shortcut. I build with a custom **agentic harness**: a structured, repeatable setup that lets one builder ship like a small team.
+
+- **Orchestration** — Claude Code & Cursor driving specialized sub-agents (plan → build → review → verify)
+- **Context & tools** — MCP servers wiring agents to my repos, data and external APIs
+- **Spec-driven** — every feature starts as a written spec the agents work against, with guardrails and clean-code rules enforced in-loop
+- **Quality gates** — automated review, type-checks and CI so speed never costs correctness
+
+The result: production-grade software, shipped fast, solo or with a small team.
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1A1A1A?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+
+---
+
 ### 📍 Now
 
 - Growing my three live apps and listening hard to users
 - Building creative-automation tooling for content at scale
-- Exploring agentic workflows for product development
+- Refining my agentic harness for product development end-to-end
 
 ---
 
@@ -77,6 +95,7 @@ Open to contracts, consulting & technical partnerships:
 
 - **MVP in 6–8 weeks** — from Figma to the App Store. Mobile (RN/Flutter) or web (Next/Astro).
 - **AI prototype in 2 weeks** — you have an AI app idea, I ship a working proto so you can decide.
+- **Agentic systems & automation** — I design custom agentic harnesses, LLM workflows and MCP integrations that give your team real leverage.
 - **Tech rescue mission** — your team is stuck. I come in, unblock, leave.
 - **Consulting / pair design** — 90-min sessions on architecture, stack and product decisions.
 
