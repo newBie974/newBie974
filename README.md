@@ -2,89 +2,89 @@
 
 # Aymeric Dijoux
 
-**Product Engineer — Web, Mobile, AI & Data**
+**Indie builder & product engineer — I build the apps I wish existed.**
 
-France (EU) · Remote Worldwide
+Paris, France · Remote worldwide
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymeric-dijoux)
+[![Portfolio](https://img.shields.io/badge/aymeric.dijoux.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://aymeric.dijoux.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymeric-dijoux)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AymericDijoux)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aymeric.builder)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@aymeric.builder)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aymericelie.dijoux@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://aymeric.dijoux.dev)
 
 </div>
 
 ---
 
-I build and ship products end-to-end — from data pipelines with EU-grade anonymization to creative automation tools generating content at scale. I work with startups and enterprise teams as a dedicated engineer or fractional CTO.
+I design, build and ship products end-to-end — from idea to the App Store. Three apps live in production, and a calendar open for the right projects. I work solo or with small teams, using AI as engineering leverage to move from Figma to launch in weeks, not months.
 
 ---
 
-### What I Do
+### 🚀 Shipped & Live
 
-**Product Engineering** — Full-stack web & mobile. MVP to production. Architecture, build, deploy.
-
-**Data & AI** — Ingestion pipelines, GDPR-compliant anonymization, LLM-powered automation.
-
-**Creative Automation** — Programmatic content generation: social carousels, templated assets, automated pipelines.
+| App | What it does | Stack |
+|---|---|---|
+| **[VoiceJournal](https://apps.apple.com/fr/app/voicejournal-journal-vocal-ia/id6762176421)** | Turn your voice into a daily journal, powered by AI | React Native · Expo · Supabase · Claude |
+| **[Caroubolt](https://caroubolt.com)** | AI helps you create the best carousels for TikTok & Instagram | Next.js · Supabase · Stripe · Gemini |
+| **[Tookta](https://tookta.fr)** | Find the perfect activity for your kids, effortlessly | Flutter · NestJS · Typesense |
 
 ---
 
-### Tech
-
-**Languages** &ensp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend** &ensp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
-![Inversify](https://img.shields.io/badge/Inversify-1A1A1A?style=flat-square&logo=inversify&logoColor=white)
+### 🛠️ Tech
 
 **Mobile** &ensp;
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Databases** &ensp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+**Web** &ensp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Cloud & DevOps** &ensp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+**Backend & Data** &ensp;
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Typesense](https://img.shields.io/badge/Typesense-1A1A1A?style=flat-square&logo=typesense&logoColor=white)
 
 **AI / LLM** &ensp;
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Tools** &ensp;
+**Payments & Tooling** &ensp;
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&logo=revenuecat&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000?style=flat-square&logo=resend&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### Now
+### 📍 Now
 
-- Scaling a data anonymization platform for an EU enterprise client
-- Building a creative automation SaaS (social media carousel generation)
+- Growing my three live apps and listening hard to users
+- Building creative-automation tooling for content at scale
 - Exploring agentic workflows for product development
 
 ---
 
-### Process
+### 🤝 Work with me
 
-I use AI as engineering leverage — not a shortcut. Claude + the [BMAD method](https://github.com/bmadcode/bmad-method) give me a structured, repeatable workflow from discovery through deployment. The result: production-grade software, shipped fast, solo or with a small team.
+Open to contracts, consulting & technical partnerships:
 
----
+- **MVP in 6–8 weeks** — from Figma to the App Store. Mobile (RN/Flutter) or web (Next/Astro).
+- **AI prototype in 2 weeks** — you have an AI app idea, I ship a working proto so you can decide.
+- **Tech rescue mission** — your team is stuck. I come in, unblock, leave.
+- **Consulting / pair design** — 90-min sessions on architecture, stack and product decisions.
 
 <div align="center">
 
-**Open to contracts, consulting & technical partnerships.**
+**Let's build something →** [aymeric.dijoux.dev](https://aymeric.dijoux.dev)
 
 [![Email](https://img.shields.io/badge/aymericelie.dijoux@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aymericelie.dijoux@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/aymeric--dijoux-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymeric-dijoux)
-[![Portfolio](https://img.shields.io/badge/aymeric.dijoux.dev-000?style=flat-square&logo=vercel&logoColor=white)](https://aymeric.dijoux.dev)
+[![LinkedIn](https://img.shields.io/badge/aymeric--dijoux-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymeric-dijoux)
 
 </div>
