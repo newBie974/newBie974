@@ -26,7 +26,7 @@ I design, build and ship products end-to-end — from idea to the App Store. Thr
 | App | What it does | Stack |
 |---|---|---|
 | **[VoiceJournal](https://apps.apple.com/fr/app/voicejournal-journal-vocal-ia/id6762176421)** | Turn your voice into a daily journal, powered by AI | React Native · Expo · Supabase · Claude |
-| **[Caroubolt](https://caroubolt.com)** | AI helps you create the best carousels for TikTok & Instagram | Next.js · Supabase · Stripe · Gemini |
+| **[Ti Boug](https://tiboug.re)** | Fights the cost of living in Réunion — which fruits & vegetables are cheap, when, and where | React Native · Expo · Convex · Gemini |
 | **[Tookta](https://tookta.fr)** | Find the perfect activity for your kids, effortlessly | Flutter · NestJS · Typesense |
 
 ---
@@ -45,6 +45,7 @@ I design, build and ship products end-to-end — from idea to the App Store. Thr
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Backend & Data** &ensp;
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -63,29 +64,34 @@ I design, build and ship products end-to-end — from idea to the App Store. Thr
 
 ---
 
-### 🤖 My Agentic Harness
+### 🤖 How I Build — My Agentic Harness
 
-AI is my engineering leverage — not a shortcut. I build with a custom **agentic harness**: a structured, repeatable setup that lets one builder ship like a small team.
+AI is my engineering leverage, not a shortcut. Every project I ship runs through the same **agentic harness**: a written spec up front, agents doing the volume work, and gates that refuse anything the tests and types don't back. It's what lets one builder move at team speed without the usual quality tax.
 
-- **Orchestration** — Claude Code & Cursor driving specialized sub-agents (plan → build → review → verify)
-- **Context & tools** — MCP servers wiring agents to my repos, data and external APIs
-- **Spec-driven** — every feature starts as a written spec the agents work against, with guardrails and clean-code rules enforced in-loop
-- **Quality gates** — automated review, type-checks and CI so speed never costs correctness
+| Layer | What it looks like in practice |
+|---|---|
+| **Spec first** | No feature starts in an editor. It starts as a spec — scope, invariants, done criteria — that agents work against and I review before a line is written. |
+| **Orchestration** | Claude Code driving specialized sub-agents: plan → build → review → verify, each with a narrow job and a defined hand-off. |
+| **Project rules** | A `CLAUDE.md` per repo encodes architecture, naming and clean-code limits — guardrails enforced in-loop, not discovered at review time. |
+| **Context & tools** | MCP servers wiring agents to repos, product data and external APIs, so the model reasons on real state instead of guesses. |
+| **Quality gates** | Strict TypeScript, unit tests on pure logic, automated code review and CI. Speed never gets to cost correctness. |
+| **Beyond the IDE** | Long-running agents with persistent memory and human-in-the-loop validation (LangGraph / deepagents) for workflows that outlive a chat session. |
 
-The result: production-grade software, shipped fast, solo or with a small team.
+I also write about it — [notes on agentic transformation](https://aymeric.dijoux.dev) (FR & EN), the patterns that hold up in production and the ones that quietly don't.
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-1A1A1A?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 
 ---
 
 ### 📍 Now
 
 - Growing my three live apps and listening hard to users
-- Building creative-automation tooling for content at scale
-- Refining my agentic harness for product development end-to-end
+- Two new consumer apps in build, heading for the App Store
+- Refining my agentic harness for product development end-to-end — and writing down what works
 
 ---
 
