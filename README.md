@@ -52,7 +52,7 @@ The method above, as files you can read and run:
 
 | Artifact | What's in it |
 |---|---|
-| **[skills](https://github.com/newBie974/skills)** | My Claude Code skills. Including **`app-store-review`** — 400 lines of App Store Connect form answers and review traps, accumulated across four real submissions, and a skill that appends every new question it meets. |
+| **[skills](https://github.com/newBie974/skills)** | Five Claude Code skills, three carrying their own reference file. Including **`app-store-review`** — 650 lines of App Store Connect answers and review traps accumulated across four submissions, and **`claude-md-init`**, which writes the contract below by reading your codebase first. |
 | **[claude-md-templates](https://github.com/newBie974/claude-md-templates)** | The `CLAUDE.md` contracts behind my shipped apps, stripped of product logic. React Native + Expo on Convex, and on Supabase. The spine, not the secrets. |
 
 ---
